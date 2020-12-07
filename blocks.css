@@ -1,0 +1,82 @@
+body {
+	width: 1500px;
+}
+.first_section {
+	height: 530px;
+	background-color: #f4f4f4;
+	border-bottom: 1px solid gray;
+}
+.header_height {
+	height: 100px;
+}
+
+.icon {
+	position: absolute;
+	top: 38px;
+	padding-left: 5px;
+	z-index: 1;
+	color: #4f5b66;
+}
+
+.search_border {
+	border-radius: 14px;
+}
+
+.work {
+	height: 250px;
+	background: url(/images/mock.jpg) 100% 100% no-repeat;
+	background-size: cover;
+}
+
+.second_section {
+	height: 350px;
+	background-color: #f4f4f4;
+	border-bottom: 1px solid gray;
+}
+
+.skills_container_height {
+	height: 100px;
+}
+
+.skill {
+	height: 20px;
+	width: 70px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.footer_height {
+	background-color: #f4f4f4;
+	height: 150px;
+}
+
+.vert_line {
+	height: 10px;
+}
+
+.task_section {
+	background-color: #f4f4f4;
+	border-bottom: 1px solid gray;
+	height: 1250px;
+}
+
+textarea {
+	width: 1078px;
+	height: 400px;
+	resize: none;
+}
+
+.user {
+	height: 80px;
+	width: 80px;
+	background: url(/images/user.jpg) 100% 100% no-repeat;
+	background-size: cover;
+}
+
+.comment_height {
+	height: 350px;
+}
+
+.comment_color {
+	background-color: #f5f5f5;
+}
